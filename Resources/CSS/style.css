@@ -4,6 +4,9 @@ body {
   font-size: 14px;
   color: black;
 }
+a {
+  color: white;
+}
 #home, #new-york {
   color: white;
   font-weight: bold;
